@@ -10,5 +10,6 @@ Plug 'itchyny/lightline.vim'
 Plug 'prabirshrestha/vim-lsp'
 Plug 'mattn/vim-lsp-settings'
 Plug 'dense-analysis/ale'
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
